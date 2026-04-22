@@ -1,5 +1,7 @@
 # UnityPlaywright
 
+Languages: English | [繁體中文](README.zh-TW.md)
+
 UnityPlaywright is a Unity Editor HTTP bridge for driving and inspecting Play Mode from external automation tools. It exposes localhost endpoints for Play Mode control, UI actions, logs, screenshots, assertions, scenario runs, and test artifacts.
 
 The bridge implementation lives in `Assets/Editor/UnityBridgeServer.cs`.
